@@ -1,0 +1,41 @@
+GET http://localhost:4000/doctorstimea/100
+
+###
+GET https://zany-gray-clam-gear.cyclic.app/reports
+###
+POST http://localhost:4000/loaddata
+Content-Type: application/json
+
+{
+    "faculties":"adf",
+    "admins":"fds",
+     "courses" :"dsf",
+     "rooms":"dsfsd",
+     "secNo":"dsfsd",
+     "crsIndx" :"dsf"
+
+}
+
+###
+
+PUT  http://localhost:4000/jeddqvd3-
+Content-Type: application/json
+
+{
+    "name":"mdddasasdsdss",
+    "age" : "3100",
+    "address":"dhsaka"
+}
+
+###
+
+DELETE  http://localhost:4000/appdel/100
+
+###
+POST http://localhost:4000/doctor_user
+Content-Type: application/json
+
+{
+    "ID" : "100",
+    "password" : "masai"
+}
